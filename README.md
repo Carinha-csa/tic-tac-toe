@@ -1,8 +1,8 @@
 # tic-tac-toe
 **Jogo da velha**
 
-**Tecnologias utilizadas foram: **
+**Tecnologias utilizadas foram:**
 
->>ReactJS
->>Node-Sass
->>JavaScript
+*ReactJS
+Node-Sass
+JavaScript*
